@@ -12,5 +12,5 @@ test('Addition 1', () => {
 });
 
 test('Addition 2', () => {
-  expect(3 + 2).toBe(6);
+  expect(3 + 3).toBe(6);
 });
